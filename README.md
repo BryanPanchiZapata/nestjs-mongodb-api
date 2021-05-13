@@ -45,10 +45,12 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
+```
 
 ## Construido con 🛠️
-*Nest,js - [https://nestjs.com](https://nestjs.com/)
-*MongoDB - https://www.mongodb.com/es
+* Nest,js - [https://nestjs.com](https://nestjs.com/)
+* MongoDB - https://www.mongodb.com/es
+
 
 ## Stay in touch
 
@@ -58,4 +60,4 @@ $ npm run start:dev
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is MIT licensed.
