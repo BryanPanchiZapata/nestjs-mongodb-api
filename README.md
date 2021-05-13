@@ -52,16 +52,10 @@ $ npm run start:dev
 * MongoDB - https://www.mongodb.com/es
 
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is MIT licensed.
 
 ## Credits
 
-Bryan Panchi Zapata - [BryanPanchiZapata](https://github.com/BryanPanchiZapata)
+[BryanPanchiZapata](https://github.com/BryanPanchiZapata)
