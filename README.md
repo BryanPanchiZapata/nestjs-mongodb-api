@@ -64,4 +64,4 @@ Nest is MIT licensed.
 
 ## Credits
 
-@BryanPanchiZapata
+Bryan Panchi Zapata - [BryanPanchiZapata](https://github.com/BryanPanchiZapata)
