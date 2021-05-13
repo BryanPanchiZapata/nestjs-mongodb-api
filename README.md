@@ -22,11 +22,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## API REST CRUD whit Nestjs & MOngoDB
 
-## Installation
+ Aplicación API REST CRUD que utiliza el marco NestJS y MongoDB / Mongoose.
+ 
+## Pre-requisitos 📋
+Previamente se necesita tener instalado Node.js y MongoDB
+ 
+
+## Installation 🔧
 
 ```bash
 $ npm install
@@ -41,9 +46,9 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
-```
+## Construido con 🛠️
+*Nest,js - [https://nestjs.com](https://nestjs.com/)
+*MongoDB - https://www.mongodb.com/es
 
 ## Stay in touch
 
