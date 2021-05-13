@@ -61,3 +61,7 @@ $ npm run start:dev
 ## License
 
 Nest is MIT licensed.
+
+## Credits
+
+@BryanPanchiZapata
