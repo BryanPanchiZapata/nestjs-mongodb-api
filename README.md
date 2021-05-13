@@ -48,7 +48,7 @@ $ npm run start:dev
 ```
 
 ## Construido con 🛠️
-* Nest,js - [https://nestjs.com](https://nestjs.com/)
+* Nest.js - [https://nestjs.com](https://nestjs.com/)
 * MongoDB - https://www.mongodb.com/es
 
 
