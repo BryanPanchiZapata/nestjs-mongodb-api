@@ -48,7 +48,14 @@ $ npm run start:dev
 ```
 
 ## Demo
+Get
 ![image](https://user-images.githubusercontent.com/63554719/118207009-5b19ac00-b429-11eb-9452-35a061277e57.png)
+Post
+![image](https://user-images.githubusercontent.com/63554719/118207279-f0b53b80-b429-11eb-8e39-fd6d23b77e4a.png)
+Delete
+![image](https://user-images.githubusercontent.com/63554719/118207617-a7192080-b42a-11eb-8019-a526ad59bda5.png)
+Put
+![image](https://user-images.githubusercontent.com/63554719/118207463-56a1c300-b42a-11eb-933e-0b79d1a737d3.png)
 
 
 ## Construido con 🛠️
