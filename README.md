@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 
-## API REST CRUD whit Nestjs & MOngoDB
+## API REST CRUD whit Nestjs & MongoDB
 
  Aplicación API REST CRUD que utiliza el marco NestJS y MongoDB / Mongoose.
  
